@@ -1,0 +1,20 @@
+# Binarios e executaveis compilados
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# Ambientes e configuracoes locais
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Scripts e automacoes internas locais
+*.ps1
+*.bat
+
+# Arquivos pesados ou temporarios (o livro em livro/ e rastreado no git)
+*.log
+*.tmp
